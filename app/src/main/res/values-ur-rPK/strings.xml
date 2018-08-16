@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="strAppName">حج</string>
+    <string name="strFeedback">ٹور آپریٹر تاثرات</string>
+    <string name="strLanguage">زبان</string>
+    <string name="strNamaz">نامز ٹائمنگ</string>
+    <string name="strFacility">سہولت تلاش کریں</string>
+    <string name="strMap">سہولت تلاش کریں</string>
+    <string name="strSchedule">شیڈول</string>
+    <string name="strMedicine">دوا کی تفصیلات</string>
+    <string name="strQurbani">قربانی تفصیلات</string>
+    <string name="strMaktab">مکہاب</string>
+    <string name="strEmbassy">سفارتخانہ</string>
+    <string name="strHelp">مدد چاہیے؟</string>
+    <string name="strEmergency">ایمرجنسی</string>
+    <string name="strFajr">فجر</string>
+    <string name="strDuha">دوہا</string>
+    <string name="strDhuhr">زہر</string>
+    <string name="strAsr">عصر</string>
+    <string name="strMaghrib">مغرب</string>
+    <string name="strIsha">عشاء</string>
+    <string name="strSettings">ترتیبات</string>
+</resources>

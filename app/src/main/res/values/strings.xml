@@ -1,0 +1,23 @@
+<resources>
+    <string name="strAppName">Hajj</string>
+    <string name="strFeedback">Tour Operator Feedback</string>
+    <string name="strLanguage">Language</string>
+    <string name="strNamaz">Namaz Timing</string>
+    <string name="strFacility">Find Facility</string>
+    <string name="strMap">Instruction Map</string>
+    <string name="strSchedule">Schedule</string>
+    <string name="strMedicine">Medicine Details</string>
+    <string name="strQurbani">Qurbani Details</string>
+    <string name="strMaktab">Maktab</string>
+    <string name="strEmbassy">Embassy</string>
+    <string name="strHelp">Need Help?</string>
+    <string name="strEmergency">Emergency</string>
+    <string name="strFajr">Fajr</string>
+    <string name="strDuha">Duha</string>
+    <string name="strDhuhr">Zuhr</string>
+    <string name="strAsr">Asr</string>
+    <string name="strMaghrib">Maghrib</string>
+    <string name="strIsha">Isha</string>
+    <string name="strSettings">Settings</string>
+
+</resources>
